@@ -137,6 +137,7 @@ class FacePI:
         
         imageurl = 'https://cdn-news.readmoo.com/wp-content/uploads/2016/07/Albert_einstein_by_zuzahin-d5pcbug-1140x600.jpg'
         imageurl = 'https://cdn2.momjunction.com/wp-content/uploads/2020/11/facts-about-albert-einstein-for-kids-720x810.jpg'
+        imageurl = 'https://cdn2.momjunction.com/wp-content/uploads/2020/11/facts-about-albert-einstein-for-kids-xxxxx.jpg'
         self.detectImageUrl(imageurl)
         
 if __name__ == '__main__':
